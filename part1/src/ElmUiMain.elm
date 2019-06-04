@@ -1,4 +1,4 @@
-module Main exposing (main)
+module ElmUiMain exposing (main)
 
 import Browser
 import Element exposing (el, text)
